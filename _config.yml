@@ -17,22 +17,22 @@ title: TXL Industries
 email: GunjalTXL@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Buisness website for TXL industries
-baseurl: "/GunjalTXL/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gunjaltxl.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Company Information
 company_name: TXL Industry
 address_line: India, Aurangabad
-telephone_number: 1.800.245.356
-fax_number: 1.800.245.357
-company_email: hello@LawOffice.org
-google_map: https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d3618.727010735933!2d91.837871!3d24.907291700000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2s!4v1404919738144
+telephone_number: +91 83800 46971
+fax_number: 
+company_email: GunjalTXL@gmail.com
+google_map: https://maps.app.goo.gl/gEezA9tpVqVmyVNv8
 
 # Social Link
-facebook_link: http://www.facebook.com
-twitter_link: http://www.twitter.com
-linkedin_link: http://www.linkedin.com
-googleplus_link: http://plus.google.com
+facebook_link: 
+twitter_link: 
+linkedin_link: 
+googleplus_link: 
 
 # Build settings
 markdown: kramdown
